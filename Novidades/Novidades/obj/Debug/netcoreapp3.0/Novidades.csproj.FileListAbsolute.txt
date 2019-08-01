@@ -1,0 +1,12 @@
+C:\Projetos\NovidadesC#8\Novidades\Novidades\bin\Debug\netcoreapp3.0\Novidades.exe
+C:\Projetos\NovidadesC#8\Novidades\Novidades\bin\Debug\netcoreapp3.0\Novidades.deps.json
+C:\Projetos\NovidadesC#8\Novidades\Novidades\bin\Debug\netcoreapp3.0\Novidades.runtimeconfig.json
+C:\Projetos\NovidadesC#8\Novidades\Novidades\bin\Debug\netcoreapp3.0\Novidades.runtimeconfig.dev.json
+C:\Projetos\NovidadesC#8\Novidades\Novidades\bin\Debug\netcoreapp3.0\Novidades.dll
+C:\Projetos\NovidadesC#8\Novidades\Novidades\bin\Debug\netcoreapp3.0\Novidades.pdb
+C:\Projetos\NovidadesC#8\Novidades\Novidades\obj\Debug\netcoreapp3.0\Novidades.csproj.CoreCompileInputs.cache
+C:\Projetos\NovidadesC#8\Novidades\Novidades\obj\Debug\netcoreapp3.0\Novidades.AssemblyInfoInputs.cache
+C:\Projetos\NovidadesC#8\Novidades\Novidades\obj\Debug\netcoreapp3.0\Novidades.AssemblyInfo.cs
+C:\Projetos\NovidadesC#8\Novidades\Novidades\obj\Debug\netcoreapp3.0\Novidades.dll
+C:\Projetos\NovidadesC#8\Novidades\Novidades\obj\Debug\netcoreapp3.0\Novidades.pdb
+C:\Projetos\NovidadesC#8\Novidades\Novidades\obj\Debug\netcoreapp3.0\Novidades.csprojAssemblyReference.cache
